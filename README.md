@@ -63,9 +63,9 @@ No Activity Tracked This Week
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 
 - Frameworks: &nbsp;
-  ![CodeIgniter](https://img.shields.io/badge/-CCodeIgniter-333333?style=flat&logo=codeigniter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter&logoColor=007ACC)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=B7C220)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React.js)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
