@@ -67,8 +67,8 @@ No Activity Tracked This Week
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm&logoColor=f70486)
-  ![Unity](https://img.shields.io/badge/-Unity%20IDEA-333333?style=flat&logo=unity&logoColor=f70486)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm&logoColor=BBD6B8)
+  ![Unity](https://img.shields.io/badge/-Unity%20IDEA-333333?style=flat&logo=unity&logoColor=ECF2FF)
 
 
 <div align="center">
