@@ -1,5 +1,3 @@
-
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 <p align="center"> <h1 align="center"> Hi, I am Raihan Ashil Zaki <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -13,10 +11,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RaihanAZaki&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22RaihanAZaki" /> </p>
 
-* Saya adalah seorang mahasiswa semester 6 di Universitas Pembangunan Jaya (https://upj.ac.id/).
-* I am a 2022 Batch Electrical Engineering Graduate from [IEM, Kolkata](https://iem.edu.in/).
-* I am a Fullstack Flutter Developer. I build a no. of android applications with flutter as well as kotlin with backend in Firebase/NodeJS.
-* I also have repositories on Problem Solving with problems solved over different domains of competitive coding mostly in java.
+* Saya adalah seorang mahasiswa Program Studi Informatika semester 6 di Universitas Pembangunan Jaya (https://upj.ac.id/).
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
@@ -27,15 +22,13 @@
   </tr>
 </table>
 
-<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
-<!-- *** -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 <!--
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -48,7 +41,7 @@ No Activity Tracked This Week
 
 ```
 
- Last Updated on 24/09/2022 18:53:40 UTC
+ Last Updated on 20/03/2023 18:53:40 UTC
 -->
  
 <!--END_SECTION:waka-->
@@ -76,30 +69,9 @@ No Activity Tracked This Week
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
   ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm-idea&logoColor=f70486)
 
-***
-
--  🔭 I’m currently building backend in Java.
-
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
-
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
-
--  😄 Pronouns: He/His
-
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂
-
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
-
-***
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Thank You!!
 
 </div>
