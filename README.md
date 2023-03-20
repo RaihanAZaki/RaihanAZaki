@@ -68,6 +68,7 @@ No Activity Tracked This Week
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
   ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm&logoColor=f70486)
+  ![Unity](https://img.shields.io/badge/-Unity%20IDEA-333333?style=flat&logo=unity&logoColor=f70486)
 
 
 <div align="center">
