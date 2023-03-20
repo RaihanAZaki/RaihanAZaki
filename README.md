@@ -65,18 +65,16 @@ No Activity Tracked This Week
 - Frameworks: &nbsp;
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter&logoColor=007ACC)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=B7C220)
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React.js)
+  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=Reactjs)
 
 - Databases:  &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm-idea&logoColor=f70486)
 
 ***
 
