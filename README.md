@@ -59,6 +59,7 @@ No Activity Tracked This Week
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=codeigniter&logoColor=007ACC)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=B7C220)
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+  ![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
 
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
