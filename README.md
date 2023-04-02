@@ -50,7 +50,7 @@ No Activity Tracked This Week
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java&logoColor=007ACC)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
