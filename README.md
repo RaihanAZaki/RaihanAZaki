@@ -4,14 +4,12 @@
          width="45" /></h1> </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/imkashyap/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://twitter.com/KepengenMekdi/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 <a href="https://www.instagram.com/raihn.z/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="mailto:rhnashil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RaihanAZaki&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22RaihanAZaki" /> </p>
 
-* Saya adalah seorang mahasiswa Program Studi Informatika semester 6 di Universitas Pembangunan Jaya (https://upj.ac.id/).
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
@@ -23,7 +21,7 @@
 </table>
 
 
-**🛠 &nbsp;Tech Stack**
+<!-- **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
@@ -45,7 +43,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
   ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-333333?style=flat&logo=pycharm&logoColor=BBD6B8)
-  ![Unity](https://img.shields.io/badge/-Unity%20IDEA-333333?style=flat&logo=unity&logoColor=ECF2FF)
+  ![Unity](https://img.shields.io/badge/-Unity%20IDEA-333333?style=flat&logo=unity&logoColor=ECF2FF) -->
 
 
 <div align="center">
