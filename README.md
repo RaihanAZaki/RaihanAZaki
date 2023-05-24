@@ -15,8 +15,7 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-<!--     <td> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaihanAZaki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="RaihanAZaki" /></td> -->
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=RaihanAZaki&show_icons=true&theme=radical)" /> </td>
+    <td> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RaihanAZaki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="RaihanAZaki" /></td>
     <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RaihanAZaki&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
