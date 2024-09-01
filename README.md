@@ -23,8 +23,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="12" />
-</div>
-<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
@@ -33,6 +31,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
+</div>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
