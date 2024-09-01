@@ -43,7 +43,7 @@
 <div align="left">
   <a href="https://www.instagram.com/raihn.z/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
   <a href="https://www.linkedin.com/in/raihan-ashilz/"><img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://portfolio-raihan-one.vercel.app"><img src="https://img.shields.io/static/v1?message=List&logo=list&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portofolio logo"  /></a>
+  <a href="https://portfolio-raihan-one.vercel.app"><img src="https://img.shields.io/static/v1?message=Portofolio&logo=list&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portofolio logo"  /></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/aldhxs/aldhxs/output/snake.svg" alt="Snake animation" />
