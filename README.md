@@ -46,6 +46,6 @@
   <a href="https://portfolio-raihan-one.vercel.app"><img src="https://img.shields.io/static/v1?message=Portofolio&logo=list&label=&color=844CE7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portofolio logo"  /></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/aldhxs/aldhxs/output/snake.svg" alt="Snake animation" />
+
 
 ###
