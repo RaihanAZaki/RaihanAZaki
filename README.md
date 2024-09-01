@@ -32,11 +32,21 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=golang" height="30" alt="golang logo"  />
-  <img width="12" />
+</div>
+
+
+
+###
+
+###
+
+<div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
 </div>
+
+
 
 ###
 
