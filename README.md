@@ -8,7 +8,7 @@
 </div>
 
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphOGx3d3I3bXhsY2V6NGJnZWhwaTM5YTV4MGsxb2ZrZm43M2U2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="center" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWphOGx3d3I3bXhsY2V6NGJnZWhwaTM5YTV4MGsxb2ZrZm43M2U2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
@@ -23,7 +23,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="12" />
-   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
